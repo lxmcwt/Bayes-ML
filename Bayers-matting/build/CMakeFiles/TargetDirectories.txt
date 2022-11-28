@@ -1,0 +1,3 @@
+/home/liuchang/codes/computer_vision/bayers_matting/build/CMakeFiles/rebuild_cache.dir
+/home/liuchang/codes/computer_vision/bayers_matting/build/CMakeFiles/edit_cache.dir
+/home/liuchang/codes/computer_vision/bayers_matting/build/CMakeFiles/executor.dir
